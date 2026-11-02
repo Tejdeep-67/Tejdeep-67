@@ -1,61 +1,64 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=160&section=header&text=Tejdeep%20Kellampalli&fontColor=ffffff&fontSize=40&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,100:1b2540&height=150&section=header&text=Tejdeep%20Kellampalli&fontColor=f2dcaa&fontSize=40&fontAlignY=40&desc=Data%20Analyst%20%C2%B7%20B.Tech%20CSE%20(Data%20Science)&descColor=9ba5ba&descSize=15&descAlignY=62" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;B.Tech+CSE+(Data+Science)+-+Class+of+2027" alt="Typing intro"/>
+  <a href="https://tejdeep-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-tejdeep--portfolio.netlify.app-d8b46a?style=flat-square&labelColor=0a0f1c" alt="Portfolio"/></a>
+  <a href="https://in.linkedin.com/in/tejdeep-kellampalli-6510a8355"><img src="https://img.shields.io/badge/LinkedIn-connect-d8b46a?style=flat-square&logo=linkedin&logoColor=f2dcaa&labelColor=0a0f1c" alt="LinkedIn"/></a>
+  <a href="mailto:kellampallitejdeep@gmail.com"><img src="https://img.shields.io/badge/Email-kellampallitejdeep%40gmail.com-d8b46a?style=flat-square&logo=gmail&logoColor=f2dcaa&labelColor=0a0f1c" alt="Email"/></a>
 </p>
 
-<p align="center">
-  <a href="https://tejdeep-67.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://in.linkedin.com/in/tejdeep-kellampalli-6510a8355"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:kellampallitejdeep@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+Hi, I'm Tejdeep. I'm a final-year B.Tech student in Computer Science and Engineering (Data Science) at R.V.R. & J.C. College of Engineering, Guntur. I like taking messy data and turning it into something people can actually use, a dashboard, a model or a small web app.
 
-## About me
-
-- Final-year B.Tech student in **Computer Science and Engineering (Data Science)** at R.V.R. & J.C. College of Engineering, Guntur
-- I work mostly with **SQL, Python and Power BI**, turning raw data into dashboards and answers
-- Looking for **data analyst, QA and IT internships / entry-level roles** (Hyderabad, Bangalore, Chennai or remote)
-- Certified Data Science Professional (Oracle)
-
-## Tech I use
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+- Mostly working with **Python, SQL and Power BI**, plus some JavaScript when a project needs a front end
+- Looking for **data analyst, QA and IT roles** (Hyderabad, Bangalore, Chennai or remote)
+- Oracle Certified Data Science Professional
 
 ## Featured projects
 
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **Retail Sales Analytics** | SQL analysis of 1M+ retail transactions with RFM segments, cohorts and a Power BI style dashboard | SQL, SQLite, Python, Plotly | [Code](https://github.com/Tejdeep-67/retail-sales-analytics) · [Dashboard](https://tejdeep-67.github.io/retail-sales-analytics/) |
-| **AP Rainfall & Crop Analysis** | EDA of 117 years of rainfall and district crop data for Andhra Pradesh | Python, pandas, seaborn, SciPy | [Code](https://github.com/Tejdeep-67/ap-rainfall-crop-analysis) · [Report](https://tejdeep-67.github.io/ap-rainfall-crop-analysis/) |
-| **Customer Churn Prediction** | ML model (ROC-AUC 0.84) with a Flask API and a live web demo | scikit-learn, Flask, JS | [Code](https://github.com/Tejdeep-67/customer-churn-prediction) · [Demo](https://tejdeep-67.github.io/customer-churn-prediction/) |
-| **Safe Roads** | Pothole detection with YOLOv8 and route-based hazard alerts (team project) | YOLOv8, Flask, MongoDB, React | [Code](https://github.com/Tejdeep-67/project-bolt-sb1-gt5grsbh) |
-| **Stalytex** | Upload CSV/Excel, clean it, chart it and run SQL in the browser | React, TypeScript, sql.js | [Code](https://github.com/Tejdeep-67/Stalytex) |
+### [Safe Roads](https://safe-roads-ai.netlify.app)
+Pothole detection that runs in the browser. A YOLO model exported to ONNX checks the webcam, a road video or a photo, puts each hazard on a shared map and warns you about the ones on your route. Started as a team project.
+`YOLOv8` `ONNX Runtime Web` `React` `TypeScript` `Leaflet`
+[Live](https://safe-roads-ai.netlify.app) · [Code](https://github.com/Tejdeep-67/safe-roads)
+
+### [AirPulse](https://airpulse-india.netlify.app)
+Live air quality and weather for Indian cities. Calculates the CPCB AQI from pollutant readings, forecasts PM2.5 with a model I trained and alerts you when your city crosses a limit.
+`Python` `scikit-learn` `JavaScript` `Open-Meteo` `Leaflet`
+[Live](https://airpulse-india.netlify.app) · [Code](https://github.com/Tejdeep-67/airpulse-india)
+
+### [NiftyLens](https://niftylens.netlify.app)
+A dashboard for NIFTY 50 stocks. Prices, charts and technicals next to news headlines scored by my own sentiment model, with alerts for big moves.
+`Python` `NLP` `scikit-learn` `JavaScript` `Netlify Functions`
+[Live](https://niftylens.netlify.app) · [Code](https://github.com/Tejdeep-67/niftylens)
+
+## Other projects
+
+| Project | What it is | Links |
+|---|---|---|
+| **Customer Churn Prediction** | Churn model on 7,043 telecom customers with a what-if risk simulator and a Flask API | [Live](https://tejdeep-churn-predictor.netlify.app) · [Code](https://github.com/Tejdeep-67/customer-churn-prediction) |
+| **Retail Sales Analytics** | 1.07M transactions in SQLite, 12 SQL analyses (RFM, cohorts) and a dashboard | [Live](https://tejdeep-retail-analytics.netlify.app) · [Code](https://github.com/Tejdeep-67/retail-sales-analytics) |
+| **AP Rainfall & Crop Analysis** | 117 years of rainfall and district crop data for Andhra Pradesh as a data story | [Live](https://tejdeep-ap-rainfall.netlify.app) · [Code](https://github.com/Tejdeep-67/ap-rainfall-crop-analysis) |
+| **Stalytex** | Upload CSV or Excel, clean it, chart it and run SQL in the browser | [Live](https://stalytex.netlify.app) · [Code](https://github.com/Tejdeep-67/Stalytex) |
+
+## Tools
+
+<p>
+<img src="https://img.shields.io/badge/Python-0a0f1c?style=for-the-badge&logo=python&logoColor=d8b46a" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-0a0f1c?style=for-the-badge&logo=sqlite&logoColor=d8b46a" alt="SQL"/>
+<img src="https://img.shields.io/badge/pandas-0a0f1c?style=for-the-badge&logo=pandas&logoColor=d8b46a" alt="pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-0a0f1c?style=for-the-badge&logo=scikitlearn&logoColor=d8b46a" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Power%20BI-0a0f1c?style=for-the-badge&logo=powerbi&logoColor=d8b46a" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-0a0f1c?style=for-the-badge&logo=microsoftexcel&logoColor=d8b46a" alt="Excel"/>
+<img src="https://img.shields.io/badge/Jupyter-0a0f1c?style=for-the-badge&logo=jupyter&logoColor=d8b46a" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Flask-0a0f1c?style=for-the-badge&logo=flask&logoColor=d8b46a" alt="Flask"/>
+<img src="https://img.shields.io/badge/JavaScript-0a0f1c?style=for-the-badge&logo=javascript&logoColor=d8b46a" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-0a0f1c?style=for-the-badge&logo=react&logoColor=d8b46a" alt="React"/>
+<img src="https://img.shields.io/badge/Git-0a0f1c?style=for-the-badge&logo=git&logoColor=d8b46a" alt="Git"/>
+</p>
 
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tejdeep-67&theme=github" height="170" alt="stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tejdeep-67&theme=github" height="170" alt="languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tejdeep-67&theme=default&hide_border=true" height="170" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejdeep-67&show_icons=true&hide_border=true&bg_color=0a0f1c&title_color=d8b46a&icon_color=d8b46a&text_color=eceef4" height="165" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Tejdeep-67&hide_border=true&background=0a0f1c&ring=d8b46a&fire=d8b46a&currStreakLabel=f2dcaa&sideLabels=9ba5ba&currStreakNum=eceef4&sideNums=eceef4&dates=9ba5ba&stroke=1b2540" height="165" alt="streak"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e3a8a&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2540,100:0a0f1c&height=80&section=footer" width="100%"/>

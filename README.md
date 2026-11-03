@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,100:1b2540&height=150&section=header&text=Tejdeep%20Kellampalli&fontColor=f2dcaa&fontSize=40&fontAlignY=40&desc=Data%20Analyst%20%C2%B7%20B.Tech%20CSE%20(Data%20Science)&descColor=9ba5ba&descSize=15&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,100:1b2540&height=150&section=header&text=Tejdeep%20Kellampalli&fontColor=f2dcaa&fontSize=40&fontAlignY=40&desc=B.Tech%20CSE%20(Data%20Science)%20student&descColor=9ba5ba&descSize=15&descAlignY=62" width="100%"/>
 
 <p align="center">
-  <a href="https://tejdeep-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-tejdeep--portfolio.netlify.app-d8b46a?style=flat-square&labelColor=0a0f1c" alt="Portfolio"/></a>
+  <a href="https://tejdeepkellampalli.netlify.app"><img src="https://img.shields.io/badge/Portfolio-tejdeepkellampalli.netlify.app-d8b46a?style=flat-square&labelColor=0a0f1c" alt="Portfolio"/></a>
   <a href="https://in.linkedin.com/in/tejdeep-kellampalli-6510a8355"><img src="https://img.shields.io/badge/LinkedIn-connect-d8b46a?style=flat-square&logo=linkedin&logoColor=f2dcaa&labelColor=0a0f1c" alt="LinkedIn"/></a>
   <a href="mailto:kellampallitejdeep@gmail.com"><img src="https://img.shields.io/badge/Email-kellampallitejdeep%40gmail.com-d8b46a?style=flat-square&logo=gmail&logoColor=f2dcaa&labelColor=0a0f1c" alt="Email"/></a>
 </p>
@@ -9,15 +9,15 @@
 Hi, I'm Tejdeep. I'm a final-year B.Tech student in Computer Science and Engineering (Data Science) at R.V.R. & J.C. College of Engineering, Guntur. I like taking messy data and turning it into something people can actually use, a dashboard, a model or a small web app.
 
 - Mostly working with **Python, SQL and Power BI**, plus some JavaScript when a project needs a front end
-- Looking for **data analyst, QA and IT roles** (Hyderabad, Bangalore, Chennai or remote)
+- Open to internships and entry-level roles in **data, QA and IT** (Hyderabad, Bangalore, Chennai or remote)
 - Oracle Certified Data Science Professional
 
 ## Featured projects
 
-### [Safe Roads](https://safe-roads-ai.netlify.app)
+### [Safe Roads](https://thesaferoads.netlify.app)
 Pothole detection that runs in the browser. A YOLO model exported to ONNX checks the webcam, a road video or a photo, puts each hazard on a shared map and warns you about the ones on your route. Started as a team project.
 `YOLOv8` `ONNX Runtime Web` `React` `TypeScript` `Leaflet`
-[Live](https://safe-roads-ai.netlify.app) · [Code](https://github.com/Tejdeep-67/safe-roads)
+[Live](https://thesaferoads.netlify.app) · [Code](https://github.com/Tejdeep-67/safe-roads)
 
 ### [AirPulse](https://airpulse-india.netlify.app)
 Live air quality and weather for Indian cities. Calculates the CPCB AQI from pollutant readings, forecasts PM2.5 with a model I trained and alerts you when your city crosses a limit.
